@@ -1,0 +1,72 @@
+body{
+    background-size: cover; 
+  background-position: center; 
+    background-image: url('../Asserts/1.jpg');
+    image-resolution: 10px;
+}
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(10, 15, 24, 0.8); 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    margin-top: 120px
+  }
+
+  .heading {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Arial, sans-serif;
+  color: #00CFC1; 
+}
+  
+.form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .label {
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #D3D3D3;
+  }
+  
+  .input, .textarea, .select {
+    padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #00CFC1;
+  background-color: rgba(255, 255, 255, 0.1); 
+  color: #FFFFFF;
+  font-size: 16px;
+  }
+  
+  .input::placeholder,
+  .textarea::placeholder {
+    color: #D3D3D3; 
+  }
+  
+  .textarea {
+    min-height: 100px;
+  }
+  
+  .button {
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+    background-color: #33E1FF; 
+    color: #FFFFFF; 
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #007ACC; 
+  }
+  
