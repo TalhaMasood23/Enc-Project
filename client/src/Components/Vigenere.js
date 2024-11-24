@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 const VigenereCipher = ({ inputText = "", keyword = "", actionType = "encrypt", onResult }) => {
   const vigenereProcess = (text, keyword, mode) => {
