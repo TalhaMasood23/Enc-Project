@@ -170,7 +170,7 @@ const MainForm = () => {
           }
           className="input"
           required
-          style={{ background: "black", color: "white", marginTop: "10px" }}
+          style={{ background: "black", color: "white", marginTop: "10px", width:"40%" }}
         >
           <option value="">Select a technique</option>
           <option value="caesar">Caesar Cipher</option>
