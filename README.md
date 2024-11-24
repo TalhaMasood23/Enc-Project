@@ -7,8 +7,15 @@ This code is open source don't forget to give us credit
 1. First clone the project on your system 
 2. you will see two package Client(FrontEnd) and server(Backend)
 3. Install both package dependencies by
- ```console npm i```
+ ```
+ console npm i
+ ```
 4. For Front-end type 
-```console npm start```  
+```console 
+npm start
+```  
 5. For Backend 
-```console node index.js```
+```
+console 
+node index.js
+```
