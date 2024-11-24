@@ -1,5 +1,5 @@
 # Enc-Project
-# Information and security class project
+# Information and security project
 Contributor's (**Muhammad Talha maasood**, [Sfwan Ali](https://github.com/Sfwanali13408))
 This code is open source don't forget to give us credit
 
