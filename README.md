@@ -18,8 +18,7 @@ npm start
 ```console 
 node index.js
 ```
-
-## Screen shot of project
-Enc-Project/client/001.png
-Enc-Project/client/002.png
+## Screenshots
+![Project Screenshot 1](001.png)
+![Project Screenshot 2](002.png)
 Enc-Project/client/003.png
