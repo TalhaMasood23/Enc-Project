@@ -19,6 +19,8 @@ npm start
 node index.js
 ```
 ## Screenshots
-![Project Screenshot 1](001.png)
-![Project Screenshot 2](002.png)
-Enc-Project/client/003.png
+![Project Screenshot 1](client/001.png)
+![Project Screenshot 2](client/002.png)
+![Project Screenshot 3](client/003.png)
+
+
