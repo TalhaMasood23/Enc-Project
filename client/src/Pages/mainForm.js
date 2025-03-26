@@ -129,7 +129,7 @@ const MainForm = () => {
     <div className="container">
       <h2 className="heading">Information Security Project</h2>
       <form className="form">
-        {/* Input and Output Fields */}
+        {/* Input and Output Field */}
         <label className="label">Enter your text</label>
         <textarea
           name="inputText"
